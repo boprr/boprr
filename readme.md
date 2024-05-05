@@ -2,4 +2,5 @@
 
 Terry A. Davis
 
-Stallman Freedom Index: **97.82**
+![image](https://github.com/boprr/boprr/assets/85123713/d9d3048e-f147-4538-b091-67f37b06c85a)
+
