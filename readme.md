@@ -2,8 +2,4 @@
 
 Terry A. Davis
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boprr&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boprr&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![image](https://github.com/boprr/boprr/assets/85123713/d9d3048e-f147-4538-b091-67f37b06c85a)
